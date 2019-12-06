@@ -1,0 +1,40 @@
+body{
+    background: #333; 
+   
+}
+
+
+.red{
+    background: red;
+    margin: 150px;
+    padding: 5px;
+    color: blue;
+    width: 25%;
+    display: flex;
+    
+    //display: inline-block;
+}
+
+.dc{
+     margin: 10px 30px;
+    background: #ff8080;
+    padding: 10px;
+display: inline-block;
+    color: white;
+    text-decoration: none;
+    
+}
+.dc:hover{
+    background: rosybrown;
+}
+nav{
+   background: #9933ff; 
+}
+button{
+    background:#e6b800; 
+  
+}
+button:hover{
+    background: #ffdb4d  ; 
+  
+}
